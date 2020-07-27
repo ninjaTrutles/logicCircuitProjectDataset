@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_20200526_193112.jpg</filename>
+	<path>/home/rachita/Desktop/Test/image/IMG_20200526_193112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>and</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1702</xmin>
+			<ymin>877</ymin>
+			<xmax>2927</xmax>
+			<ymax>2607</ymax>
+		</bndbox>
+	</object>
+</annotation>
